@@ -29,3 +29,14 @@ https://docs.docker.com/docker-for-mac/install/
 
 For linux, you can follow the instructions on this page:
 
+https://docs.docker.com/install/linux/docker-ce/ubuntu/
+
+
+
+Notes:
+
+Birdsall & Langdon(general information on :
+https://github.com/ThePolywellGuy/Polywell-Papers/blob/master/1985%20-%20Berkely%20-%20Plasma%20Physics%20via%20Computer%20Simulation%20-%20Birdsall%2C%20Langdon.pdf
+
+
+
