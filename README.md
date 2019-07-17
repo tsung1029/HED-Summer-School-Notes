@@ -38,5 +38,11 @@ Notes:
 Birdsall & Langdon(general information on :
 https://github.com/ThePolywellGuy/Polywell-Papers/blob/master/1985%20-%20Berkely%20-%20Plasma%20Physics%20via%20Computer%20Simulation%20-%20Birdsall%2C%20Langdon.pdf
 
+Langdon, Lasinski and Kruer:
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.133
+
+Langdon paper on energy conservation (& grid instability):
+https://www.sciencedirect.com/science/article/pii/0021999170900240
+
 
 
