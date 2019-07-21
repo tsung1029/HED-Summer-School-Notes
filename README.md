@@ -45,4 +45,9 @@ Langdon paper on energy conservation (& grid instability):
 https://www.sciencedirect.com/science/article/pii/0021999170900240
 
 
+Lin and Dawson paper on Compton Scattering:
+
+https://aip.scitation.org/doi/abs/10.1063/1.861103
+
+
 
