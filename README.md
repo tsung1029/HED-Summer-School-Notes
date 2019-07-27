@@ -44,6 +44,10 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.133
 Langdon paper on energy conservation (& grid instability):
 https://www.sciencedirect.com/science/article/pii/0021999170900240
 
+Forslund paper on parametric instability:
+https://aip.scitation.org/doi/10.1063/1.861249
+
+
 
 Lin and Dawson paper on Compton Scattering:
 
