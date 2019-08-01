@@ -65,3 +65,9 @@ https://aip.scitation.org/doi/10.1063/1.1692859
 Dawson's explanation on Landau Damping:
 
 https://aip.scitation.org/doi/abs/10.1063/1.1706419
+
+Denavit & Kruer:
+
+https://inis.iaea.org/search/search.aspx?orig_q=RN:12614864
+
+
