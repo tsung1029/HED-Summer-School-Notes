@@ -79,3 +79,9 @@ Kruer, Dawson Sudan:
 
 https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.23.838
 
+Coffey wave breaking limit:
+
+https://aip.scitation.org/doi/abs/10.1063/1.1693620
+
+
+
