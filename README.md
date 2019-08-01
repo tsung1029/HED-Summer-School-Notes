@@ -57,3 +57,9 @@ Dawson Sheet Model:
 
 https://aip.scitation.org/doi/10.1063/1.1706638
 
+Sideband Instability by Kruer:
+
+https://aip.scitation.org/doi/10.1063/1.1692859
+
+
+
