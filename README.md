@@ -53,5 +53,7 @@ Lin and Dawson paper on Compton Scattering:
 
 https://aip.scitation.org/doi/abs/10.1063/1.861103
 
+Dawson Sheet Model:
 
+https://aip.scitation.org/doi/10.1063/1.1706638
 
