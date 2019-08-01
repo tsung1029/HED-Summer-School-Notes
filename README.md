@@ -83,5 +83,6 @@ Coffey wave breaking limit:
 
 https://aip.scitation.org/doi/abs/10.1063/1.1693620
 
+Denavit and Kruer (1971)
 
-
+https://aip.scitation.org/doi/10.1063/1.1693676
