@@ -62,4 +62,6 @@ Sideband Instability by Kruer:
 https://aip.scitation.org/doi/10.1063/1.1692859
 
 
+Dawson's explanation on Landau Damping:
 
+https://aip.scitation.org/doi/abs/10.1063/1.1706419
