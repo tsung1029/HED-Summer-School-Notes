@@ -71,3 +71,11 @@ Denavit & Kruer:
 https://inis.iaea.org/search/search.aspx?orig_q=RN:12614864
 
 
+Malmberg, Wharton, O'Neil:
+
+https://aip.scitation.org/doi/10.1063/1.1692191
+
+Kruer, Dawson Sudan:
+
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.23.838
+
