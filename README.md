@@ -44,8 +44,12 @@ https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.133
 Langdon paper on energy conservation (& grid instability):
 https://www.sciencedirect.com/science/article/pii/0021999170900240
 
+Tajima and Dawson's classic paper on particle acceleration:
+https://journals.aps.org/prl/abstract/10.1103/PhysRevLett.43.267
+
 Forslund paper on parametric instability:
 https://aip.scitation.org/doi/10.1063/1.861249
+
 
 
 
@@ -57,14 +61,32 @@ Dawson Sheet Model:
 
 https://aip.scitation.org/doi/10.1063/1.1706638
 
+Viktor Decyk's Gridless Code:
+
+https://github.com/UCLA-Plasma-Simulation-Group/gridless
+
+Nonlinear Landau Damping
+
 Sideband Instability by Kruer:
 
 https://aip.scitation.org/doi/10.1063/1.1692859
 
-
 Dawson's explanation on Landau Damping:
 
 https://aip.scitation.org/doi/abs/10.1063/1.1706419
+
+Holes in Phase Space (Dawson's 1995 paper):
+
+https://pubs.aip.org/aip/pop/article-abstract/2/6/2189/895198/Computer-modeling-of-plasma-Past-present-and
+
+Drag and Diffusion in Velocity Space (Dawson's 1983 Review of Modern Physics paper):
+
+https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.55.403
+
+(Look at equations (179) for fast particles and (180) for slow particles)
+
+
+Projects from 2019:
 
 Denavit & Kruer:
 
