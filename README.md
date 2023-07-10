@@ -1,7 +1,7 @@
-# 2019-HED-Summer-School-Notes
-notes for 2019 HED summer school
+# HED-Summer-School-Notes
+notes for HED summer school kinetic workshop
 
-This is the README for the kinetic workshop of the 2019 HED Summer School in UCSD.  The purpose of this repo is to have a 
+This is the README for the kinetic workshop of the 2019 (&2023) HED Summer School in UCSD.  The purpose of this repo is to have a 
 central location for all of the information relevant to the kinetic workshop, including notes and instructions for running the various 
 notebooks.
 
