@@ -85,6 +85,8 @@ https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.55.403
 
 (Look at equations (179) for fast particles and (180) for slow particles)
 
+Also look at my class project notes here, from the 1990's.
+
 
 Projects from 2019:
 
