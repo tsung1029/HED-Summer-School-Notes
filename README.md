@@ -87,6 +87,7 @@ https://journals.aps.org/rmp/abstract/10.1103/RevModPhys.55.403
 
 Also look at my class project notes here, from the 1990's.
 
+(available @ this repo).
 
 Projects from 2019:
 
