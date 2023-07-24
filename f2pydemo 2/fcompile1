@@ -1,0 +1,3 @@
+#-----------------------------------------------------------------------
+gfortran -c initlib1.f90 pushmod1.f90 pushlib1.f
+gfortran -o f2pydemo1 f2pydemo1.f90 initlib1.o pushmod1.o pushlib1.o

@@ -1,0 +1,4 @@
+#-----------------------------------------------------------------------
+gfortran -fPIC -c pushlib1.f
+f2py --fcompiler=gnu95 -m plasmalib -c initlib1.f90 pushmod1.f90 \
+     pushlib1.o

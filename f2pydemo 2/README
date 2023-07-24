@@ -1,0 +1,35 @@
+Source codes for Tutorial: Easy Python and Fortran with f2py
+by Viktor K. Decyk, UCLA
+copyright 2021-2023, regents of the university of california
+
+This tutorial shows two examples of how to create dynamic libraries for
+Python from Fortran procedures.  The tutorial itself in the the file
+F2pyTutorial.pdf
+
+The first example shows how to do this for cases that require no changes
+to the Fortran or a minimal wrapper.  The second main code discusses a
+strategy of how to handle the case of derived types in the Fortran.
+
+There are 2 Fortran main codes in this tutorial, f2pydemo1.f90 and
+f2pydemo2.f90, describing the original Fortran examples.
+
+To compile these two programs, cut, paste and execute the contents of
+the files fcompile1 and fcompiler, respectively, or execute:
+
+./fcompile1 or ./fcompile2 or make
+
+To create the dynamic libraries for Python from the Fortran examples,
+
+cut, paste and execute the contents of the files pycompile1 and
+pycompile2, respectively, or execute:
+
+./pycompile1 or ./pycompile2 or make python
+
+There are 2 Python scripts in this tutorial, f2pydemo1.py and
+f2pydemo2.py which run the Python version of the Fortran main codes.
+
+To run these Python examples, run:
+
+python3 f2pydemo1.py or python3 f2pydemo2.py, respectively.
+
+

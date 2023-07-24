@@ -1,0 +1,5 @@
+#-----------------------------------------------------------------------
+gfortran -fPIC -c rpushlib1.f90
+f2py --fcompiler=gnu95 -m rplasmalib -c initlib1.f90 rpushmod1.f90 \
+     rpushlib1.o
+

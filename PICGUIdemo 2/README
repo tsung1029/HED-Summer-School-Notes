@@ -1,0 +1,44 @@
+Skeleton MVC Python Script to implement a GUI to a physics code.
+by Viktor K. Decyk, UCLA, with contributions from Aileen Wang
+
+This is a set of simple Python scripts to illustrate how to implement
+interactive graphics in running a physics code.  It implements the MVC
+(Model View Controller) Design pattern.  This keeps the physics
+separate from the graphics and the interactive controller.
+
+The GUI (Graphical User Interface) is implemented using tkinter, and
+the graphics is implemented using matplotlib.  The physics is run in-
+a separate thread from the viewer and the graphics.  It only produces
+images of traveling sine and cosine waves.
+
+These scripts can run in either Python2 or Python3.  They has only been
+tested in MacOS.  They require the installation of numpy and matplotlib.
+
+To run the example, move to the directory PIC_Gui, by executing:
+cd PIC_Gui
+and execute the script:
+python3 cpanel.py
+
+A control panel should appear, similar to the one shown in cpanel.png,
+followed by a window to the right which displays the matplotlib images.
+The physics will run for one time step, and one should see the images in
+graphics1.png
+
+If one selects the Step button in the control panel, the physics will
+run for one time step.  If one selects Run Continuously button, the code
+will run without interrupt until time 10.0 is reached, and one should
+see the images in graphics2.png
+
+One can then select the Quit button to exit.
+
+Since the graphics takes longer than the physics, there are additional
+options.  Fast Forward will suppress the graphics until some future
+time.  Run Chunk allows one to skip plotting a set number of time steps
+at a time.
+
+The file cpanel2.py is an alternate version of cpanel.py, which uses a
+dictionary instead of an if-then-else block in the callback function
+on_plotstart to execute plotting functions.  An if-then-else block is
+used by  set_plotfunc to create a dictionary of executable functions.
+At run time only a dictionary lookup needed to find the appropriate
+plotting function to execute.
